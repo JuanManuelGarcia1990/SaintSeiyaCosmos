@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;900&family=Source+Serif+Pro:wght@300;600;900&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Source Sans Pro", sans-serif;
+  box-sizing: border-box; }
+
+h1 {
+  padding: 15px 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+/* Header */
+.header {
+  background-image: linear-gradient(107deg, white, #0051ffd7); }
+  .header a:hover {
+    color: black; }
+
+.header .color {
+  color: white; }
+  .header .color:hover {
+    color: black;
+    transition: 2s; }
+
+.nav-link {
+  color: white; }
+
+.img-fluid {
+  height: 30vh; }
+
+/* Footer */
+.backgroundFooter {
+  text-align: center;
+  background-image: linear-gradient(107deg, white, #0051ffd7); }
+  .backgroundFooter a {
+    color: black; }
+
+.fa-instagram {
+  padding: 5px 10px;
+  font-size: 3rem;
+  color: aliceblue; }
+  .fa-instagram:hover {
+    background-color: rgba(82, 88, 88, 0.466);
+    transition: 0.3s; }
+
+.fa-twitter {
+  padding: 5px 10px;
+  font-size: 3rem;
+  color: aliceblue; }
+  .fa-twitter:hover {
+    background-color: rgba(82, 88, 88, 0.466);
+    transition: 0.3s; }
+
+.fa-chrome {
+  padding: 5px 10px;
+  font-size: 3rem;
+  color: aliceblue; }
+  .fa-chrome:hover {
+    background-color: rgba(82, 88, 88, 0.466);
+    transition: 0.3s; }
+
+.copyright {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  justify-content: center; }
+
+/* Index */
+.mainIndex {
+  background-image: linear-gradient(325deg, #00000094, #0d6efdab); }
+  .mainIndex p {
+    font-size: larger; }
+
+/* Manga */
+.cardsManga {
+  padding-bottom: 50px;
+  background-image: linear-gradient(221deg, black, #08429894); }
+  .cardsManga h1 {
+    color: #fff; }
+  .cardsManga img {
+    height: 50vh; }
+  .cardsManga h5 {
+    text-align: center;
+    font-weight: bold; }
+
+.card {
+  background-image: linear-gradient(78deg, #00000082, #0842988f);
+  padding: 0;
+  margin: 5px auto; }
+
+.row {
+  --bs-gutter-x: 0rem; }
+
+/*Seccion anime: Peliculas y series */
+.cardsAnime {
+  background-image: linear-gradient(206deg, #0d6efd, white);
+  padding-bottom: 50px; }
+  .cardsAnime h5 {
+    text-align: center;
+    font-weight: bold; }
+
+/* Autor */
+.mainAutor {
+  background-image: linear-gradient(60deg, #b4b5e73d, #4679c4ab); }
+  .mainAutor p {
+    font-size: larger; }
+
+/* Contacto */
+.contacto {
+  background-repeat: round;
+  background-image: url(../assets/fotos/saint-seiya-1080x609.jpg.webp); }
+
+.backgroundForm {
+  background-color: #e7e3e9a3; }
