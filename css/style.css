@@ -106,10 +106,19 @@ h1 {
   .mainAutor p {
     font-size: larger; }
 
-/* Contacto */
-.contacto {
+.mainContacto {
   background-repeat: round;
   background-image: url(../assets/fotos/saint-seiya-1080x609.jpg.webp); }
 
-.backgroundForm {
+.container {
+  max-width: 100%;
   background-color: #e7e3e9a3; }
+
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh; }
+
+.form {
+  width: 450px; }
