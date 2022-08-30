@@ -1,7 +1,15 @@
-//Contacto
+//Contact
 .mainContacto {
   background-repeat: round;
   background-image: url(../assets/fotos/saint-seiya-1080x609.jpg.webp);
+  form {
+    input,
+    textarea {
+      &:focus {
+        background-color: #00ffff29;
+      }
+    }
+  }
 }
 
 .container {

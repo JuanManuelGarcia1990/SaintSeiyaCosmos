@@ -118,6 +118,9 @@ h1 {
 .mainContacto {
   background-repeat: round;
   background-image: url(../assets/fotos/saint-seiya-1080x609.jpg.webp); }
+  .mainContacto form input:focus,
+  .mainContacto form textarea:focus {
+    background-color: #00ffff29; }
 
 .container {
   max-width: 100%;
