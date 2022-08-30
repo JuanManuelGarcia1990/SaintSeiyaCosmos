@@ -72,6 +72,7 @@ h1 {
 .container {
   background-image: linear-gradient(325deg, #00000094, #0d6efdab); }
   .container p {
+    font-weight: bold;
     font-size: larger; }
 
 .py-5 {
@@ -111,6 +112,7 @@ h1 {
 .mainAutor {
   background-image: linear-gradient(60deg, #b4b5e73d, #4679c4ab); }
   .mainAutor p {
+    font-weight: bold;
     font-size: larger; }
 
 .mainContacto {
