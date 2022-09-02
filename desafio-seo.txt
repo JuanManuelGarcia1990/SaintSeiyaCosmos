@@ -1,0 +1,17 @@
+Agregue:
+En todos los htmls en Title:SAINT SEIYA COSMOS | antes del nombre del titulo que ya estaba puesto
+- Index - Keywords: Saint Seiya, caballeros del zodiaco, seiya, , santos de oro, pegaso, athena
+- Index - Description: Saint Seiya Cosmos, ingresar para descubrir todo el contenido de Saint Seiya
+- Manga - Keywords: Manga,Saint Seiya manga,Episodio G,Next Dimension,The Lost Canvas,Saintia Shō
+- Manga - Description: Acá vas a poder leer todos los mangas de tu serie favorita
+Anime:
+- Series - Keywords: Saint Seiya,The Lost Canvas,Omega,Soul Of Gold,santos de oro,Saintia Sho,anime
+- Series - Description: Acá vas a poder ver todas las series de tu anime favorito
+- Peliculas - Keywords: saint seiya,peliculas,Manzana De Oro,Batalla Dioses ,Joven Escarlata,Guerreros armaggedon,tenkai
+- Peliculas - Description: Acá vas a poder ver todas las peliculas de tu anime favorito
+- Autor - Keywords: Masami Kurumada,autor,otras obras
+- Autor - Description: Conocé un poco más acerca del creador de esta obra maestra
+- Contacto - Keywords: Masami Kurumada,autor,otras obras
+- Contacto - Description: Conocé un poco más acerca del creador de esta obra maestra
+
+incluye optimizaciones y cambio de formatos de imgs
