@@ -1,5 +1,5 @@
 Agregue:
-En todos los htmls en Title:SAINT SEIYA COSMOS | antes del nombre del titulo que ya estaba puesto
+En todos los htmls en Title:SS COSMOS | antes del nombre del titulo que ya estaba puesto
 - Index - Keywords: Saint Seiya, caballeros del zodiaco, seiya, , santos de oro, pegaso, athena
 - Index - Description: Saint Seiya Cosmos, ingresar para descubrir todo el contenido de Saint Seiya
 - Manga - Keywords: Manga,Saint Seiya manga,Episodio G,Next Dimension,The Lost Canvas,Saintia Shō
