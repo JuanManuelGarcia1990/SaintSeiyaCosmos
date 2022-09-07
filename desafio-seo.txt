@@ -1,4 +1,4 @@
-Agregue:
+Agregué:
 En todos los htmls en Title:SS COSMOS | antes del nombre del titulo que ya estaba puesto
 - Index - Keywords: Saint Seiya, caballeros del zodiaco, seiya, , santos de oro, pegaso, athena
 - Index - Description: Saint Seiya Cosmos, ingresar para descubrir todo el contenido de Saint Seiya
@@ -13,4 +13,4 @@ En todos los htmls en Title:SS COSMOS | antes del nombre del titulo que ya estab
 - Contacto - Keywords: contacto,ayuda,atencion,sugerencia,comentario
 - Contacto - Description: Dejanos tu comentario, critica o sugerencia
 
-incluye optimizaciones y cambio de formatos de imgs
+Agregué sección base en scss

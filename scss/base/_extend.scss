@@ -1,0 +1,13 @@
+%redes {
+  padding: $padding;
+  font-size: $font-size;
+  color: $color;
+}
+
+//mixin
+
+@mixin redes {
+  padding: $padding;
+  font-size: $font-size;
+  color: $color;
+}

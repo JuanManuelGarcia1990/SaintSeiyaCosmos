@@ -1,6 +1,9 @@
 //Imported Fonts
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;900&family=Source+Serif+Pro:wght@300;600;900&display=swap");
+
 //Variables declaration
+@import './base/variables';
+@import './base/extend';
 $advert: 'Source Sans Pro", sans-serif';
 
 //General rules for Css
@@ -56,9 +59,7 @@ h1 {
 }
 
 .fa-instagram {
-  padding: 5px 10px;
-  font-size: 3rem;
-  color: aliceblue;
+  @include redes;
   &:hover {
     background-color: rgba(82, 88, 88, 0.466);
     transition: 0.3s;
@@ -66,9 +67,7 @@ h1 {
 }
 
 .fa-twitter {
-  padding: 5px 10px;
-  font-size: 3rem;
-  color: aliceblue;
+  @include redes;
   &:hover {
     background-color: rgba(82, 88, 88, 0.466);
     transition: 0.3s;
@@ -76,9 +75,7 @@ h1 {
 }
 
 .fa-chrome {
-  padding: 5px 10px;
-  font-size: 3rem;
-  color: aliceblue;
+@include redes;
   &:hover {
     background-color: rgba(82, 88, 88, 0.466);
     transition: 0.3s;
