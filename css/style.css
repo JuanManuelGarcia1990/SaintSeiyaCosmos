@@ -73,7 +73,10 @@ h1 {
   background-image: linear-gradient(325deg, #00000094, #0d6efdab); }
   .container p {
     font-weight: bold;
-    font-size: larger; }
+    font-size: larger;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    text-align: center; }
 
 .py-5 {
   padding-top: 1rem !important; }
