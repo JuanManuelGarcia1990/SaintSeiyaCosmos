@@ -1,13 +1,29 @@
+//Redes
 %redes {
   padding: $padding;
   font-size: $font-size;
   color: $color;
 }
 
-//mixin
-
 @mixin redes {
   padding: $padding;
   font-size: $font-size;
   color: $color;
+}
+
+//Parrafos index y autor
+%parrafos {
+  font-weight: $font-weight;
+  font-size: $fontp;
+  margin-right: $margin-right;
+  margin-left: $margin-left;
+  text-align: $text-align;
+}
+
+@mixin parrafos { 
+    font-weight: $font-weight;
+    font-size: $fontp;
+    margin-right: $margin-right;
+    margin-left: $margin-left;
+    text-align: $text-align;  
 }
