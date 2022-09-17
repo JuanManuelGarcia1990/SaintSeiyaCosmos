@@ -14,3 +14,5 @@ En todos los htmls en Title:SS COSMOS | antes del nombre del titulo que ya estab
 - Contacto - Description: Dejanos tu comentario, critica o sugerencia
 
 Agregué sección base en scss
+Sección manga edite la rosolucion para que todas las imagenes tengan la misma
+Sección galeria comprimi tamaño de todas las imagenes
