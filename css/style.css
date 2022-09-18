@@ -153,7 +153,7 @@ h1 {
   grid-template-areas: "img1 img1 img1 img3 img2 img2" "img6 img6 img4 img3 img2 img2" "img6 img6 img4 img5 img5 img5" "img12 img10 img10 img10 img7 img7" "img12 img11 img11 img9 img7 img7" "img12 img11 img11 img9 img8 img8"; }
   .gridContainer .img1 {
     grid-area: img1;
-    background-image: url("/assets/fotos/galeria/bronce omega.jpg");
+    background-image: url("/assets/fotos/galeria/bronce-omega.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -173,7 +173,7 @@ h1 {
       align-items: center; }
   .gridContainer .img2 {
     grid-area: img2;
-    background-image: url("../../assets/fotos/galeria/caballeros de bronce y athena.png");
+    background-image: url("../../assets/fotos/galeria/caballeros-de-bronce-y-athena.png");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -193,7 +193,7 @@ h1 {
       align-items: center; }
   .gridContainer .img3 {
     grid-area: img3;
-    background-image: url("../../assets/fotos/galeria/caballeros dorados espectros.jpg");
+    background-image: url("../../assets/fotos/galeria/caballeros-dorados-espectros.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -213,7 +213,7 @@ h1 {
       align-items: center; }
   .gridContainer .img4 {
     grid-area: img4;
-    background-image: url("../../assets/fotos/galeria/caballeros dorados y athena.jpg");
+    background-image: url("../../assets/fotos/galeria/caballeros-dorados-y-athena.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -233,7 +233,7 @@ h1 {
       align-items: center; }
   .gridContainer .img5 {
     grid-area: img5;
-    background-image: url("../../assets/fotos/galeria/Dioses - HADES.jpg");
+    background-image: url("../../assets/fotos/galeria/Dioses-hades.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -253,7 +253,7 @@ h1 {
       align-items: center; }
   .gridContainer .img6 {
     grid-area: img6;
-    background-image: url("../../assets/fotos/galeria/Hilda de Polaris.png");
+    background-image: url("../../assets/fotos/galeria/Hilda-de-polaris.png");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -293,7 +293,7 @@ h1 {
       align-items: center; }
   .gridContainer .img8 {
     grid-area: img8;
-    background-image: url("../../assets/fotos/galeria/Saga de Gemini.png");
+    background-image: url("../../assets/fotos/galeria/Saga-de-Gemini.png");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -313,7 +313,7 @@ h1 {
       align-items: center; }
   .gridContainer .img9 {
     grid-area: img9;
-    background-image: url("../../assets/fotos/galeria/saintia sho.jpg");
+    background-image: url("../../assets/fotos/galeria/saintia-sho.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -353,7 +353,7 @@ h1 {
       align-items: center; }
   .gridContainer .img11 {
     grid-area: img11;
-    background-image: url("../../assets/fotos/galeria/Shion de aries.jpg");
+    background-image: url("../../assets/fotos/galeria/Shion-de-aries.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
