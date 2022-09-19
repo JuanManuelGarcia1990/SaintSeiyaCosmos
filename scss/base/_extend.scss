@@ -4,13 +4,11 @@
   font-size: $font-size;
   color: $color;
 }
-
 @mixin redes {
   padding: $padding;
   font-size: $font-size;
   color: $color;
 }
-
 //Parrafos index y autor
 %parrafos {
   font-weight: $font-weight;
@@ -20,10 +18,40 @@
   text-align: $text-align;
 }
 
-@mixin parrafos { 
-    font-weight: $font-weight;
-    font-size: $fontp;
-    margin-right: $margin-right;
-    margin-left: $margin-left;
-    text-align: $text-align;  
+@mixin parrafos {
+  font-weight: $font-weight;
+  font-size: $fontp;
+  margin-right: $margin-right;
+  margin-left: $margin-left;
+  text-align: $text-align;
+}
+//Grid areas
+%gridAreas {
+  background-size: $background-size;
+  background-position: $background-position;
+  display: $display;
+  align-items: $align-items;
+  justify-content: $justify-content;
+}
+@mixin gridAreas {
+  background-size: $background-size;
+  background-position: $background-position;
+  display: $display;
+  align-items: $align-items;
+  justify-content: $justify-content;
+}
+//Icon
+%icon {
+  font-size: $icon-size;
+  padding: $icon-padding;
+  border-radius: $border-radius;
+  background: $background;
+  box-shadow: $box-shadow;
+}
+@mixin icon {
+  font-size: $icon-size;
+  padding: $icon-padding;
+  border-radius: $border-radius;
+  background: $background;
+  box-shadow: $box-shadow;
 }

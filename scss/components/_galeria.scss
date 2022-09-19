@@ -1,6 +1,6 @@
 .mainGaleria {
   background-image: linear-gradient(325deg, #00000094, #0d6efdab);
-} 
+}
 .gridContainer {
   display: grid;
   grid-template-columns: 17vw, 17vw, 16vw, 16vw, 17vw, 17vw;
@@ -19,300 +19,120 @@
   & .img1 {
     grid-area: img1;
     background-image: url(../assets/fotos/galeria/bronce-omega.jpg);
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-
-    & .text {
-      text-align: center;
-      font-size: 1.2em;
-      padding: 3px;
-      border-radius: 8px;
-      background: #e0e0e0be;
-      box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    @include gridAreas;
+    & .icon {
+      @include icon;
     }
   }
 
   & .img2 {
     grid-area: img2;
     background-image: url(../assets/fotos/galeria/caballeros-de-bronce-y-athena.png);
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-
-    & .text {
-      text-align: center;
-      font-size: 1.2em;
-      padding: 3px;
-      border-radius: 8px;
-      background: #e0e0e0be;
-      box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    @include gridAreas;
+    & .icon {
+      @include icon;
     }
   }
 
   & .img3 {
     grid-area: img3;
-    background-image: url('https://res.cloudinary.com/dtqe9t072/image/upload/v1663599520/caballeros-dorados-espectros_jl1ej8.jpg');
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-
-    & .text {
-      text-align: center;
-      font-size: 1.2em;
-      padding: 3px;
-      border-radius: 8px;
-      background: #e0e0e0be;
-      box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599520/caballeros-dorados-espectros_jl1ej8.jpg");
+    @include gridAreas;
+    & .icon {
+      @include icon;
     }
   }
 
   & .img4 {
     grid-area: img4;
-    background-image: url('https://res.cloudinary.com/dtqe9t072/image/upload/v1663599521/caballeros-dorados-y-athena_r2wmg5.jpg');
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-
-    & .text {
-      text-align: center;
-      font-size: 1.2em;
-      padding: 3px;
-      border-radius: 8px;
-      background: #e0e0e0be;
-      box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599521/caballeros-dorados-y-athena_r2wmg5.jpg");
+    @include gridAreas;
+    & .icon {
+      @include icon;
     }
   }
 
   & .img5 {
     grid-area: img5;
-    background-image: url('https://res.cloudinary.com/dtqe9t072/image/upload/v1663599520/dioses-hades_ydr3p2.jpg');
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-
-    & .text {
-      text-align: center;
-      font-size: 1.2em;
-      padding: 3px;
-      border-radius: 8px;
-      background: #e0e0e0be;
-      box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599520/dioses-hades_ydr3p2.jpg");
+    @include gridAreas;
+    & .icon {
+      @include icon;
     }
   }
 
   & .img6 {
     grid-area: img6;
-    background-image: url('https://res.cloudinary.com/dtqe9t072/image/upload/v1663599523/hilda-de-polaris_b0scgb.png');
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-
-    & .text {
-      text-align: center;
-      font-size: 1.2em;
-      padding: 3px;
-      border-radius: 8px;
-      background: #e0e0e0be;
-      box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599523/hilda-de-polaris_b0scgb.png");
+    @include gridAreas;
+    & .icon {
+      @include icon;
     }
   }
 
   & .img7 {
     grid-area: img7;
-    background-image: url('https://res.cloudinary.com/dtqe9t072/image/upload/v1663599522/poseidon_bnebzq.jpg');
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-
-    & .text {
-      text-align: center;
-      font-size: 1.2em;
-      padding: 3px;
-      border-radius: 8px;
-      background: #e0e0e0be;
-      box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599522/poseidon_bnebzq.jpg");
+    @include gridAreas;
+    & .icon {
+      @include icon;
     }
   }
 
   & .img8 {
     grid-area: img8;
-    background-image: url('https://res.cloudinary.com/dtqe9t072/image/upload/v1663599521/saga-de-gemini_nlamoa.png');
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-
-    & .text {
-      text-align: center;
-      font-size: 1.2em;
-      padding: 3px;
-      border-radius: 8px;
-      background: #e0e0e0be;
-      box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599521/saga-de-gemini_nlamoa.png");
+    @include gridAreas;
+    & .icon {
+      @include icon;
     }
   }
 
   & .img9 {
     grid-area: img9;
-    background-image: url('https://res.cloudinary.com/dtqe9t072/image/upload/v1663599523/saintia-sho_lxwjah.jpg');
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-
-    & .text {
-      text-align: center;
-      font-size: 1.2em;
-      padding: 3px;
-      border-radius: 8px;
-      background: #e0e0e0be;
-      box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599523/saintia-sho_lxwjah.jpg");
+    @include gridAreas;
+    & .icon {
+      @include icon;
     }
   }
 
   & .img10 {
     grid-area: img10;
-    background-image: url('https://res.cloudinary.com/dtqe9t072/image/upload/v1663599522/seiya_wmd95a.jpg');
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-
-    & .text {
-      text-align: center;
-      font-size: 1.2em;
-      padding: 3px;
-      border-radius: 8px;
-      background: #e0e0e0be;
-      box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599522/seiya_wmd95a.jpg");
+    @include gridAreas;
+    & .icon {
+      @include icon;
     }
   }
 
   & .img11 {
     grid-area: img11;
-    background-image: url('https://res.cloudinary.com/dtqe9t072/image/upload/v1663599522/shion-de-aries_naxdas.jpg');
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-
-    & .text {
-      text-align: center;
-      font-size: 1.2em;
-      padding: 3px;
-      border-radius: 8px;
-      background: #e0e0e0be;
-      box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599522/shion-de-aries_naxdas.jpg");
+    @include gridAreas;
+    & .icon {
+      @include icon;
     }
   }
 
   & .img12 {
     grid-area: img12;
-    background-image: url('https://res.cloudinary.com/dtqe9t072/image/upload/v1663599523/siegfried_q9odgg.jpg');
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-
-    & .text {
-      text-align: center;
-      font-size: 1.2em;
-      padding: 3px;
-      border-radius: 8px;
-      background: #e0e0e0be;
-      box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599523/siegfried_q9odgg.jpg");
+    @include gridAreas;
+    & .icon {
+      @include icon;
     }
   }
 }
 
 @media (max-width: 800px) {
   .gridContainer {
-  grid-template-areas: 
-  "img1 img1 img1 img2 img2 img2"
-  "img3 img3 img3 img4 img4 img4"
-  "img5 img5 img5 img6 img6 img6"
-  "img7 img7 img7 img8 img8 img8"
-  "img9 img9 img9 img10 img10 img10"
-  "img11 img11 img11 img12 img12 img12";
-}
+    grid-template-areas:
+      "img1 img1 img1 img2 img2 img2"
+      "img3 img3 img3 img4 img4 img4"
+      "img5 img5 img5 img6 img6 img6"
+      "img7 img7 img7 img8 img8 img8"
+      "img9 img9 img9 img10 img10 img10"
+      "img11 img11 img11 img12 img12 img12";
+  }
 }
