@@ -12,6 +12,8 @@ En todos los htmls en Title:SS COSMOS | antes del nombre del titulo que ya estab
 - Autor - Description: Conocé un poco más acerca del creador de esta obra maestra
 - Contacto - Keywords: contacto,ayuda,atencion,sugerencia,comentario
 - Contacto - Description: Dejanos tu comentario, critica o sugerencia
+- Galeria - Keywords: saint seiya, imagenes, fotos, galeria
+- Galeria - Description: Ingresa a nuestra galeria a ver las imagenes de saint seiya
 
 Agregué sección base en scss
 Sección manga edite la rosolucion para que todas las imagenes tengan la misma
