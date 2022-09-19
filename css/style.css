@@ -14,10 +14,8 @@ h1 {
     color: #ffffff7a; }
 
 /* Header */
-.header {
-  background-image: linear-gradient(107deg, white, #0051ffd7); }
-  .header a:hover {
-    color: black; }
+.header a:hover {
+  color: black; }
 
 .header .color {
   color: white; }
@@ -74,8 +72,8 @@ h1 {
   .container p {
     font-weight: bold;
     font-size: larger;
-    margin-right: 4rem;
-    margin-left: 4rem;
+    margin-right: 9rem;
+    margin-left: 9rem;
     text-align: center; }
 
 .py-5 {
@@ -116,8 +114,8 @@ h1 {
   .mainAutor p {
     font-weight: bold;
     font-size: larger;
-    margin-right: 4rem;
-    margin-left: 4rem;
+    margin-right: 9rem;
+    margin-left: 9rem;
     text-align: center; }
 
 .mainContacto {
