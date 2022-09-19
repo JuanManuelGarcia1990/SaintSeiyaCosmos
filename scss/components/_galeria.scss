@@ -304,3 +304,15 @@
     }
   }
 }
+
+@media (max-width: 800px) {
+  .gridContainer {
+  grid-template-areas: 
+  "img1 img1 img1 img2 img2 img2"
+  "img3 img3 img3 img4 img4 img4"
+  "img5 img5 img5 img6 img6 img6"
+  "img7 img7 img7 img8 img8 img8"
+  "img9 img9 img9 img10 img10 img10"
+  "img11 img11 img11 img12 img12 img12";
+}
+}
