@@ -153,7 +153,7 @@ h1 {
   grid-template-areas: "img1 img1 img1 img3 img2 img2" "img6 img6 img4 img3 img2 img2" "img6 img6 img4 img5 img5 img5" "img12 img10 img10 img10 img7 img7" "img12 img11 img11 img9 img7 img7" "img12 img11 img11 img9 img8 img8"; }
   .gridContainer .img1 {
     grid-area: img1;
-    background-image: url("./assets/fotos/galeria/bronce-omega.jpg");
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599521/bronce-omega_xwrfyz.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -193,7 +193,7 @@ h1 {
       align-items: center; }
   .gridContainer .img3 {
     grid-area: img3;
-    background-image: url("./assets/fotos/galeria/caballeros-dorados-espectros.jpg");
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599520/caballeros-dorados-espectros_jl1ej8.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -213,7 +213,7 @@ h1 {
       align-items: center; }
   .gridContainer .img4 {
     grid-area: img4;
-    background-image: url("./assets/fotos/galeria/caballeros-dorados-y-athena.jpg");
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599521/caballeros-dorados-y-athena_r2wmg5.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -233,7 +233,7 @@ h1 {
       align-items: center; }
   .gridContainer .img5 {
     grid-area: img5;
-    background-image: url("./assets/fotos/galeria/dioses-hades.jpg");
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599520/dioses-hades_ydr3p2.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -253,7 +253,7 @@ h1 {
       align-items: center; }
   .gridContainer .img6 {
     grid-area: img6;
-    background-image: url("./assets/fotos/galeria/hilda-de-polaris.png");
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599523/hilda-de-polaris_b0scgb.png");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -273,7 +273,7 @@ h1 {
       align-items: center; }
   .gridContainer .img7 {
     grid-area: img7;
-    background-image: url("./assets/fotos/galeria/poseidon.jpg");
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599522/poseidon_bnebzq.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -293,7 +293,7 @@ h1 {
       align-items: center; }
   .gridContainer .img8 {
     grid-area: img8;
-    background-image: url("./assets/fotos/galeria/saga-de-gemini.png");
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599521/saga-de-gemini_nlamoa.png");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -313,7 +313,7 @@ h1 {
       align-items: center; }
   .gridContainer .img9 {
     grid-area: img9;
-    background-image: url("./assets/fotos/galeria/saintia-sho.jpg");
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599523/saintia-sho_lxwjah.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -333,7 +333,7 @@ h1 {
       align-items: center; }
   .gridContainer .img10 {
     grid-area: img10;
-    background-image: url("./assets/fotos/galeria/seiya.jpg");
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599522/seiya_wmd95a.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -353,7 +353,7 @@ h1 {
       align-items: center; }
   .gridContainer .img11 {
     grid-area: img11;
-    background-image: url("./assets/fotos/galeria/shion-de-aries.jpg");
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599522/shion-de-aries_naxdas.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -373,7 +373,7 @@ h1 {
       align-items: center; }
   .gridContainer .img12 {
     grid-area: img12;
-    background-image: url("../../assets/fotos/galeria/siegfried.jpg");
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599523/siegfried_q9odgg.jpg");
     width: 100%;
     height: 100%;
     background-size: cover;
