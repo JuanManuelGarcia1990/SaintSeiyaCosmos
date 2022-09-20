@@ -155,6 +155,10 @@ h1 {
 .form {
   width: 450px; }
 
+@media (max-width: 500px) {
+  .mainContacto {
+    background-size: contain; } }
+
 .mainGaleria {
   background-image: linear-gradient(325deg, #00000094, #0d6efdab); }
 

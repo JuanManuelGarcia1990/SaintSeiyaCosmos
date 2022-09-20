@@ -27,3 +27,9 @@
 .form {
   width: 450px;
 }
+
+@media (max-width: 500px) {
+  .mainContacto {
+    background-size: contain;
+  }
+}
