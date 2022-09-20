@@ -8,14 +8,14 @@
   }
 }
 
-@media (min-width: 1200px) {
+@media  (min-width: 1200px) {
   .cardsSeries {
     background-image: url(../assets/fotos/12casas.webp);
-  }
-  h1 {
-    color: #fff;
-    &:hover {
-      color: #0bd7cda3;
+    h1 {
+      color: #fff;
+      &:hover {
+        color: #0bd7cda3;
+      }
     }
   }
 }

@@ -18,7 +18,7 @@
 
   & .img1 {
     grid-area: img1;
-    background-image: url(../assets/fotos/galeria/bronce-omega.jpg);
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599521/bronce-omega_xwrfyz.jpg");
     @include gridAreas;
     & .icon {
       @include icon;
@@ -27,7 +27,7 @@
 
   & .img2 {
     grid-area: img2;
-    background-image: url(../assets/fotos/galeria/caballeros-de-bronce-y-athena.png);
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599523/caballeros-de-bronce-y-athena_of2lrs.png");
     @include gridAreas;
     & .icon {
       @include icon;

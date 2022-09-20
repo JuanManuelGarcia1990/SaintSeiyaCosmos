@@ -113,10 +113,10 @@ h1 {
 @media (min-width: 1200px) {
   .cardsSeries {
     background-image: url(../assets/fotos/12casas.webp); }
-  h1 {
-    color: #fff; }
-    h1:hover {
-      color: #0bd7cda3; } }
+    .cardsSeries h1 {
+      color: #fff; }
+      .cardsSeries h1:hover {
+        color: #0bd7cda3; } }
 
 .cardsPeliculas {
   background-image: linear-gradient(206deg, #0d6efd, white);
@@ -168,7 +168,7 @@ h1 {
   grid-template-areas: "img1 img1 img1 img3 img2 img2" "img6 img6 img4 img3 img2 img2" "img6 img6 img4 img5 img5 img5" "img12 img10 img10 img10 img7 img7" "img12 img11 img11 img9 img7 img7" "img12 img11 img11 img9 img8 img8"; }
   .gridContainer .img1 {
     grid-area: img1;
-    background-image: url(../assets/fotos/galeria/bronce-omega.jpg);
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599521/bronce-omega_xwrfyz.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -182,7 +182,7 @@ h1 {
       box-shadow: 5px 5px 8px #5c5c5c, -5px -5px 8px #5c5c5c; }
   .gridContainer .img2 {
     grid-area: img2;
-    background-image: url(../assets/fotos/galeria/caballeros-de-bronce-y-athena.png);
+    background-image: url("https://res.cloudinary.com/dtqe9t072/image/upload/v1663599523/caballeros-de-bronce-y-athena_of2lrs.png");
     background-size: cover;
     background-position: center;
     display: flex;
