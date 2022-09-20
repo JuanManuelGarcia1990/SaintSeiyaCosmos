@@ -16,5 +16,6 @@ En todos los htmls en Title:SS COSMOS | antes del nombre del titulo que ya estab
 - Galeria - Description: Ingresa a nuestra galeria a ver las imagenes de saint seiya
 
 Agregué sección base en scss
-Sección manga edite la rosolucion para que todas las imagenes tengan la misma
+Sección manga edite la rosolución para que todas las imagenes tengan la misma
 Sección galeria comprimi tamaño de todas las imagenes
+Header edité resolución del logo y lo centre
