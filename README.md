@@ -11,7 +11,7 @@ Flexbox
 Grid
 Animaciones
 Hover
-Media queries
+Media queries.
 Dentro del mismo el usuario podrá navegar por la web a través de sus diferentes secciones y poder disfrutar del contenido
 
 //COMO EMPEZAR A COMPILAR SASS//
