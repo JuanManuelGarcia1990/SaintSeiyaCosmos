@@ -1,7 +1,7 @@
 # SaintSeiyaCosmos
 Descripción
 
-Proyecto Final para el curso de desarrollo web de la academia coder House Comisión 33030
+Proyecto Final para el curso de desarrollo web de la academia coder House Comisión 33030.
 El proyecto fue desarrollado usando:
 Html5
 Css3
