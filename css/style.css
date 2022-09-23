@@ -39,19 +39,19 @@ h1 {
   .backgroundFooter a {
     color: black; }
 
-.fa-instagram {
+.fa-github {
   padding: 5px 10px;
   font-size: 3rem;
   color: aliceblue; }
-  .fa-instagram:hover {
+  .fa-github:hover {
     background-color: rgba(82, 88, 88, 0.466);
     transition: 0.3s; }
 
-.fa-twitter {
+.fa-linkedin {
   padding: 5px 10px;
   font-size: 3rem;
   color: aliceblue; }
-  .fa-twitter:hover {
+  .fa-linkedin:hover {
     background-color: rgba(82, 88, 88, 0.466);
     transition: 0.3s; }
 

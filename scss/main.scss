@@ -59,7 +59,7 @@ h1 {
   }
 }
 
-.fa-instagram {
+.fa-github {
   @include redes;
   &:hover {
     background-color: rgba(82, 88, 88, 0.466);
@@ -67,7 +67,7 @@ h1 {
   }
 }
 
-.fa-twitter {
+.fa-linkedin {
   @include redes;
   &:hover {
     background-color: rgba(82, 88, 88, 0.466);
